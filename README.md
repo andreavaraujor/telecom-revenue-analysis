@@ -1,4 +1,4 @@
-# 📞 Telecom Revenue Analysi
+# 📞 Telecom Revenue Analysis
 ## 📝 Descripción del proyecto
 Este proyecto, inicialmente desarrollado en Jupyter Notebook, tiene como propósito analizar un conjunto de datos de clientes de una empresa de telecomunicaciones. El departamento comercial quiere saber cuál de los planes prepago genera más ingresos para poder ajustar el presupuesto de publicidad. El objetivo es explorar y comparar métricas de uso de las tarifas prepago disponibles. Con este proyecto se busca aplicar y consolidar habilidades en análisis de datos, visualización interactiva y buenas prácticas de desarrollo de software, con la posibilidad de extenderlo posteriormente hacia un panel de control web.
 #
